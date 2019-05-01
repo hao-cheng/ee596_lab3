@@ -2,6 +2,11 @@
 
 Course Webpage: [EE596 Spring 2019-- Conversational Artificial Intelligence](https://hao-cheng.github.io/ee596_spr2019/)
 
+## Task 0: Mid-quarter course evaluation (required)
+Please fill out the [mid-quarter evaluation form](https://forms.gle/gQiMgMo7yKoZVmHq8). The responses are anonymous, but we count how many responses we get. Everyone will get credit for this part once we see that we've had enough responses.
+
+__________________
+
 An important step in nowadays data-driven systems is data collection.
 In this lab, we will go through basic data collection steps on [Amazon Mechanical Turk](https://www.mturk.com/).
 
@@ -84,6 +89,7 @@ collection for your project, please explore how to leverage this toolkit for
 data collection. For instance, you can look into how to collect a [persona-based conversation](https://github.com/facebookresearch/ParlAI/tree/master/parlai/mturk/tasks/personachat).
 
 ## Lab Checkoff
+* Task 0: fill out the [mid-quarter evaluation](https://forms.gle/gQiMgMo7yKoZVmHq8) (anonymous, but we can count the number of responses)
 * Task 2 & 3: Show the HITs your created.
 
 ## Lab Report
