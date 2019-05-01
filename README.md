@@ -38,7 +38,7 @@ courses that fit not only their curriculum, but also personal preferences about 
            correct answer to your question -->
     <crowd-classifier 
         categories="['${candidate0}', '${candidate1}', '${candidate2}', 'None of the above']"
-        header="Which one is the best response for the adivsor?"
+        header="Which one is the best response for the advisor?"
         name="response">
 
         <!-- Your conversations will be substituted for the "conversation" variable when 
