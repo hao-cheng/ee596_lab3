@@ -17,7 +17,7 @@ In this task, we will create a toy HIT.
 The "Sandbox" mode is a test version of the MTurk marketplace.
 You can use it to test publishing and completing tasks without paying any money.
 * Create a toy project using the customizable template `Intent Detection`
-  following this [walkthrough](https://hao-cheng.github.io/ee596_spr2019/slides/lab3-walkthrough.pdf).
+  following this [walkthrough](https://hao-cheng.github.io/ee596_spr2019/slides/lab_3-walkthrough.pdf).
 
 ## Task 2: Create a HIT for response selection
 In this task, we create a new HIT for selecting the best response given a conversation history.
