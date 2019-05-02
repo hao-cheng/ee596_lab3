@@ -88,9 +88,12 @@ facilating this is [ParlAI](https://parl.ai/).  If you need more complex data
 collection for your project, please explore how to leverage this toolkit for
 data collection. For instance, you can look into how to collect a [persona-based conversation](https://github.com/facebookresearch/ParlAI/tree/master/parlai/mturk/tasks/personachat).
 
+
 ## Lab Checkoff
 * Task 0: fill out the [mid-quarter evaluation](https://forms.gle/gQiMgMo7yKoZVmHq8) (anonymous, but we can count the number of responses)
 * Task 2 & 3: Show the HITs your created.
+* Explain how the Kappa Coefficient is computed in Page 24 of [walkthrough](https://hao-cheng.github.io/ee596_spr2019/slides/lab_3-walkthrough.pdf).
+
 
 ## Lab Report
 * Task 2: 1) upload collected annotations, 2) report inter-annotator agreement, 3) discuss HIT design issues in this task.
